@@ -1,0 +1,58 @@
+.header {
+  background-image: url(../images/bg-header-mobile.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+  padding: 3rem 2rem;
+
+  @media only screen and (min-width: $bp-small), (orientation: landscape) {
+    background-image: url(../images/bg-header-desktop.png);
+  }
+  
+}
+
+.main {
+
+  & > * {
+    padding: 4rem 2rem;
+  }
+
+}
+
+.features-section {
+
+}
+
+.tools-section {
+
+}
+
+.company-logo-section {
+
+
+  @media only screen and (min-width: $bp-medium) {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;  
+  }
+
+  & > * {
+
+      padding: 2rem 0;
+  }
+  
+}
+
+.downloads-section {
+  padding: 4rem 2rem 8rem;
+
+  @media only screen and (min-width: $bp-large) {
+    padding: 4rem 2rem;
+  }
+}
+
+.footer {
+  padding: 3rem 2rem;
+  background-color: hsl(201, 11%, 95%);
+}
+  
