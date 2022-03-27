@@ -2,6 +2,7 @@
   "name": "8_clipboard-landing-page",
   "version": "1.0.0",
   "description": "my solution to this challenge",
+  "source": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
