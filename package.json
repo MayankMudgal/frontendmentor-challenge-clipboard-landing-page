@@ -9,9 +9,5 @@
   },
   "keywords": [],
   "author": "Mayank M",
-  "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.4.0",
-    "@parcel/transformer-sass": "^2.4.1"
-  }
+  "license": "ISC"
 }
