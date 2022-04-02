@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Mayank M",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  }
 }
