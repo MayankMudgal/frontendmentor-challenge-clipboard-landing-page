@@ -1,0 +1,13 @@
+{
+  "name": "8_clipboard-landing-page",
+  "version": "1.0.0",
+  "description": "my solution to this challenge",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "Mayank M",
+  "license": "ISC"
+}
