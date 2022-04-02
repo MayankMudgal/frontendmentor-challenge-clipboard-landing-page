@@ -11,7 +11,7 @@
   "author": "Mayank M",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "latest",
-    "@parcel/transformer-sass": "latest"
+    "parcel": "^2.4.1",
+    "@parcel/transformer-sass": "^2.4.1"
   }
 }
